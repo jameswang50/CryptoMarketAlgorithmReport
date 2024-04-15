@@ -1,0 +1,2 @@
+# CryptoMarketAlgorithmReport
+Hackerrank Advanced SQL
